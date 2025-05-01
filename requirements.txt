@@ -4,6 +4,7 @@ streamlit
 seaborn
 selenium
 matplotlib
+matplotlib.pyplot
 re
 pymongo
 time
