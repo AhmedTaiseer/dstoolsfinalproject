@@ -1,0 +1,9 @@
+beautifulsoup4
+pandas
+streamlit
+seaborn
+selenium
+matplotlib
+re
+pymongo
+time
